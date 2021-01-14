@@ -1,2 +1,2 @@
 # yoonchankim-cpp-practice
-my c++ practice
+c++ is boring but i should do
